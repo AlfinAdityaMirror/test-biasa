@@ -21,7 +21,7 @@ li {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    border-bottom: 1px solid black;
+    border-bottom: 4px solid red;
     padding: 0 20px;
 }
 
